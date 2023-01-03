@@ -1,0 +1,25 @@
+[ Ejercicios de Algoritmia para pasar las vacaciones ]:
+	1- Realizar el algoritmo correspondiente a un programa que pida por teclado
+	   dos números enteros y muestre su suma, resta, multiplicación y división.
+	2- Realizar el algoritmo correspondiente a un programa que calcule el área y
+	   perímetro de un triángulo rectángulo dadas la base y la altura.
+	3- Realizar el algoritmo correspondiente a un programa que tras introducir
+	   una medida expresada en centímetros (cm) la convierta a pulgadas (inch).
+	   (1.0 ínch = 2.54 cm).
+	4- Hacer un algoritmo que imprima la cantidad de veces que se repite
+	   un número en un vector de n elementos. El número a buscar lo carga
+	   el usuario.
+	5- Hacer un programa que imprima la edad de una persona leyendo su fecha
+	   de nacimiento.
+	6- Hacer un programa que ordene un vector en forma descendente. El vector
+	   tiene K celdas.
+	7- Hacer un programa que cargue un vector de 20 elementos e imprima el
+	   mayor y el menor valor.
+	8- Cargar un vector con una letra en cada celda e imprimir la cantidad
+	   de vocales en dicho vector.
+	9- Cargar un vector e imprimir el contenido empezando de la última celda
+	   y terminando en la primera.
+	10- Imprimir los números que sean múltiplos de 3 que estén cargados en
+	    un vector de 50 elementos.
+
+	
